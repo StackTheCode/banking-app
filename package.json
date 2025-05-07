@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "jsm-banking",
-=======
   "name": "rk-code",
->>>>>>> 577bda7 (disable eslint)
   "version": "0.1.0",
   "private": true,
   "scripts": {
